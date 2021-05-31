@@ -1,7 +1,7 @@
 'use strict';
 const https = require('http');
 const axios = require('axios');
-//This is Locus Create Order method
+//This is Locus Create Order methods dude
 module.exports.createOrder = async (event) => {
 try{
    var locasData = {};
